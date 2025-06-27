@@ -7,7 +7,7 @@
 ## 🚀 Demo
 
 🔗 Live Site: [https://du-notes-ten.vercel.app/](https://du-notes-ten.vercel.app/)  
-(Note: Make sure to allow backend API access if content isn't loading)
+
 
 ---
 
