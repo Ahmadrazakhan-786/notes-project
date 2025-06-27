@@ -1,12 +1,45 @@
-# React + Vite
+# 📚 DU NOTES
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DU NOTES** is a centralized and beautifully designed notes-sharing platform built specifically for BSc Physics (Honours) students of Delhi University. It allows students to access semester-wise study material, lab manuals, and updates with ease. The frontend is built with React + Tailwind CSS and is seamlessly integrated with a Django backend for content management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo
 
-## Expanding the ESLint configuration
+🔗 Live Site: [https://du-notes-ten.vercel.app/](https://du-notes-ten.vercel.app/)  
+(Note: Make sure to allow backend API access if content isn't loading)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🎓 Semester-wise structured notes
+- 📑 PDF viewer & direct download
+- 🔄 Real-time content updates
+- 📱 Mobile-friendly responsive UI
+- 🌙 Light & dark mode toggle
+- 🔗 Social media links for community support
+
+---
+
+## 🛠 Tech Stack
+
+### **Frontend**
+- React.js
+- Tailwind CSS
+- React Router DOM
+- React Icons
+
+
+
+### **Deployment**
+- Frontend: Vercel  
+---
+
+## 🧰 Installation
+
+### Step 1: Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/du-notes.git
+cd du-notes
