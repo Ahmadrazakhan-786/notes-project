@@ -43,3 +43,23 @@
 ```bash
 git clone https://github.com/yourusername/du-notes.git
 cd du-notes
+
+Step 2: Install Dependencies
+npm install
+
+Step 3: Start the Development Server
+npm run dev
+
+
+📁 Project Structure
+du-notes/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.jsx
+├── vercel.json
+├── tailwind.config.js
+└── package.json
+
