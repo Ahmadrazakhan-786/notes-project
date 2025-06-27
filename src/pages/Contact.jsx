@@ -42,7 +42,7 @@ const Contact = ({ dark }) => {
     >
       <ToastContainer />
       <div className="text-center mb-16">
-        <h2 className={`text-4xl font-bold ${dark ? "text-white" : "text-black"}`}>CONTACT</h2>
+        <h2 className={`text-4xl font-bold font-serif ${dark ? "text-white" : "text-black"}`}>CONTACT</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className={`mt-4 text-lg font-semibold ${dark ? "text-gray-200" : "text-gray-700"}`}>
           Feel free to reach out for collaborations, opportunities, or just to say hello—I'd love to connect!
